@@ -12,7 +12,7 @@ The AWS CLI is a unified tool for managing AWS services from the command line. T
 2. [Installation](#installation)
 3. [Configuration](#configuration)
 4. [Usage](#usage)
-5. [Additional Documentation](#additional-documentation)
+5. [Script](#script)
 6. [Contributing](#contributing)
 7. [License](#license)
 
